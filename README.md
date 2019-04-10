@@ -1,2 +1,4 @@
-# Lesson-15-Algorithms
+# Lesson 15: Algorithms
 Agenda 12-04-2019
+
+
