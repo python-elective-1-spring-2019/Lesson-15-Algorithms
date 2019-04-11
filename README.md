@@ -8,4 +8,4 @@ Agenda 12-04-2019
 
 
 ## Exercises
-* [Find dublicates](execises/dublicates.py)
+* [Find duplicates](execises/duplicates.py)
