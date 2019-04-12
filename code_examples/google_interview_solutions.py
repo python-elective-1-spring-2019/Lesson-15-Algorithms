@@ -1,3 +1,6 @@
+# Code solutions for the google job interview video https://www.youtube.com/watch?v=XKu_SEDAykw&t=379s
+
+
 # [1, 2, 3, 9]
 # 1, 2, 4, 4]
 
