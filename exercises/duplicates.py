@@ -1,6 +1,8 @@
 # Given 2 collections of numbers of equal len find and delete the
 # dublicates and return a collected collection.
 
+# [1, 2, 3, 4] & [3, 4, 5, 6] => [1, 2, 3, 4, 5, 6]
+
 # Use the folowing approach to solve the problem
 # 1. Be sure you understand the question, ask for a clearification.
 # 2. Think out loud, this is good at interviews and good at and exams!
